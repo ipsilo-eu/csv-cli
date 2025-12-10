@@ -1,3 +1,6 @@
+## Will be launched soon!!!
+
+
 ## Executable Compatibility Notice
 
 This executable binary was built and tested on a **Raspberry Pi Zero W** running **Raspberry Pi OS Lite (32-bit, ARMv6)**.
