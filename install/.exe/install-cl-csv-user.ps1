@@ -36,5 +36,5 @@ try {
     exit 1
 }
 
-Write-Host "`nInstallation of cl-csv is complete!" -ForegroundColor Green
-Write-Host "To use 'cl-csv', please open a NEW PowerShell or Command Prompt window." -ForegroundColor Cyan
+Write-Host "`nInstallation of cll-csv is complete!" -ForegroundColor Green
+Write-Host "To use 'cll-csv', please open a NEW PowerShell or Command Prompt window." -ForegroundColor Cyan
